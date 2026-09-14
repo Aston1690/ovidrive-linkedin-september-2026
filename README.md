@@ -1,11 +1,11 @@
 # OviDrive LinkedIn — September 2026
 
-Version 2 redesign with purple/cyan branding, fleet imagery, sharper typography and varied layouts.
+Version 3 redesigns Week 2 Tuesday and Week 3 Tuesday. The remaining four posts retain their Version 2 artwork.
 
-[View the revised design gallery](https://aston1690.github.io/ovidrive-linkedin-september-2026/)
+[View the gallery](https://aston1690.github.io/ovidrive-linkedin-september-2026/)
 
-[Download the revised set](v2/OviDrive-September-LinkedIn-V2.zip) — six PNGs, editable SVGs, captions and fonts.
+[Download all six active posts](v3/OviDrive-September-LinkedIn-V3.zip) — PNGs, editable SVGs, captions and fonts.
 
-[Package details](v2/README.md) · [Supplied-copy review notes](v2/COPY-REVIEW.md)
+[Package details](v3/README.md) · [Supplied-copy review notes](v3/COPY-REVIEW.md)
 
-The fleet scenes are AI-generated illustrations. No LinkedIn posts have been published or scheduled.
+Artwork includes AI-generated conceptual imagery. No LinkedIn posts have been published or scheduled.
