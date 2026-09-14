@@ -1,0 +1,7 @@
+The fleet management software market is worth 11.61 billion US dollars this year, and Fortune Business Insights expects that to reach 47.81 billion by 2034. Growth of 19.4% a year, for a market most people still associate with dots moving on a map.
+That association is already out of date.
+The fastest growing segment inside that number is not tracking. It is AI and advanced analytics, expanding at 23.4% a year, faster than the market around it. Electric fleet management is close behind, not for the vehicles themselves but for the software managing battery life, charging costs and energy forecasting that petrol fleets never needed. Electric van sales alone were up 40% in a single year.
+GPS told you where a vehicle was. None of that tells you what it cost, why it cost that, or what to do differently next time.
+That is the layer we built OviDrive around. Not where the vehicle is. What the fleet is actually costing, and what is driving that cost up or down.
+The market is growing because the question fleet teams are asking has changed. Software that only answers the old question is going to feel very dated, very quickly.
+#FleetManagement #FleetFinOps #FleetTechnology #AI
