@@ -1,0 +1,8 @@
+Procurement's 2026 workload is going up 8%. Headcount is going down. Budgets are shrinking too.
+The Hackett Group's 2026 Procurement Key Issues Study puts real numbers on it: workload up 8%, headcount down 0.9%, operating budgets down 0.4%. The only number moving the other way is technology spend, up 6.1%, because it has to.
+For the first time, deploying AI-enabled technology has made it into procurement's top three priorities. Supply continuity has also overtaken cost reduction as the top objective this year, driven by the kind of geopolitical disruption most teams were not planning around twelve months ago.
+Put those together and procurement is not being asked to do more with less. It is being asked to do more, with less, under more external pressure, and to automate its way there.
+That forces an actual choice about where the automation goes first.
+The obvious candidates are the spend categories procurement already loses the most hours to, multiple suppliers, multiple contracts, numbers that are supposed to match and often do not.
+Fleet sits squarely in that category for a lot of procurement teams, and it rarely gets prioritised first, mostly because nobody has done the work of showing what leaving it alone is actually costing.
+#Procurement #FleetFinOps #SupplyChain #ProcurementAI

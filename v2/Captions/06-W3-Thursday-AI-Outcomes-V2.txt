@@ -1,0 +1,8 @@
+Everyone is quoting the same Gartner number this year: forty percent of enterprise apps will run task specific AI agents by the end of 2026, up from under five percent in 2025.
+Fewer people are quoting the other Gartner number.
+By the end of 2027, Gartner expects more than forty percent of agentic AI projects to be cancelled outright. Not paused. Cancelled.
+The reason is not that the technology does not work. Gartner points to escalating costs, unclear business value and weak governance, and to a market where a lot of what gets called agentic is really a chatbot or an old automation tool with a new label. Gartner's own estimate is that only a few hundred of the thousands of vendors claiming agentic capability actually have it.
+So the honest version of the AI story this year is not adoption speed. It is that speed without the groundwork is exactly how you end up in the forty percent that gets cancelled.
+An agent making decisions about your fleet still needs the same thing a person does to make a good decision. Accurate contract data. Cost data that reconciles. One version of what is true, not three.
+Move fast on the agent. Move faster on making sure it has something real to work from.
+#AI #FleetFinOps #AgenticAI #FleetTechnology
